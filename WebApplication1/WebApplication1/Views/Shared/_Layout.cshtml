@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> <!-- bu css i dahil eder ve bu sayfada kullanmamızı sağlar -->
+    @RenderSection("Styles", false)
+    <title>CourseApp</title>
+</head>
+<body>
+    <header>
+        @await Html.PartialAsync("_Navbar.cshtml") <!-- Böyle yapmamız bizi burdan Shared dosyasına gidip ordaki navbar html'ini kullanmamızı sağlıyor.-->
+        @RenderSection("Header", false)
+    </header>
+    <div class="container mt-3">
+        <main>
+           @RenderBody()
+        </main>
+    </div>
+</body>
+</html>

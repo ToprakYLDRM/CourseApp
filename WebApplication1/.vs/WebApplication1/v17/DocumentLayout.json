@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\course\\_course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\course\\_course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\views\\course\\courselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\course\\courselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|c:\\users\\topra\\desktop\\toprak\\udemydotnet\\webapplication1\\webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5759873C-EE0F-47E0-9104-F3D6EA9344B6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:52:34.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:47:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:47:40.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:45:13.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T10:45:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-02-08T10:45:00.731Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T10:44:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T10:44:22.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Models\\Course.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:47:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Course\\_Course.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Course\\_Course.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Course\\_Course.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Course\\_Course.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:26:26.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Course\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:25:53.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:00:57.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:00:49.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseList.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Course\\CourseList.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Course\\CourseList.cshtml",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Views\\Course\\CourseList.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Course\\CourseList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T09:58:13.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:57:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\toprak\\udemydotnet\\WebApplication1\\WebApplication1\\Models\\Repository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:49:54.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
